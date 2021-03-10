@@ -1,7 +1,8 @@
 To run this project 
-step 1 Download and extract the zip file.
-step 2 Open project directory on terminal.
-step 3 npm install
-step 4 ng serve 
+
+Step 1 :- Download and extract the zip file.
+Step 2 :- Open project directory in terminal.
+Step 3 :- npm install
+Step 4 :- ng serve 
 
 There you go....
